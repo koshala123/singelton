@@ -1,0 +1,15 @@
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\bin\Debug\net8.0\sample.singelton.exe
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\bin\Debug\net8.0\sample.singelton.deps.json
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\bin\Debug\net8.0\sample.singelton.runtimeconfig.json
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\bin\Debug\net8.0\sample.singelton.dll
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\bin\Debug\net8.0\sample.singelton.pdb
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\obj\Debug\net8.0\sample.singelton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\obj\Debug\net8.0\sample.singelton.AssemblyInfoInputs.cache
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\obj\Debug\net8.0\sample.singelton.AssemblyInfo.cs
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\obj\Debug\net8.0\sample.singelton.csproj.CoreCompileInputs.cache
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\obj\Debug\net8.0\sample.singelton.sourcelink.json
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\obj\Debug\net8.0\sample.singelton.dll
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\obj\Debug\net8.0\refint\sample.singelton.dll
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\obj\Debug\net8.0\sample.singelton.pdb
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\obj\Debug\net8.0\sample.singelton.genruntimeconfig.cache
+C:\Repo\singelton\sample.singelton.sln\sample.singelton\obj\Debug\net8.0\ref\sample.singelton.dll
