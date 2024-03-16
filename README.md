@@ -9,3 +9,5 @@ Provides a central access point for resources that should only have one instance
 
 #Example: 
 A database connection would be the best example
+
+#Bonus point we are making this thread safe as well.
